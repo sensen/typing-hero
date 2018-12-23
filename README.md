@@ -1,31 +1,31 @@
-# Typing Hero ⚡ Free Text Expander
+# Typing Hero ⚡ Expansor de texto gratuito
 
-## Purpose
+## Objetivo
 
-A place to track new feature requests and bug reports.
+Este es un lugar para comprobar nuevas funciones y reportar errores.
 
-## How to report bug?
+## ¿Cómo reportar un error?
 
-### Stop!
-Make sure the bug you're planning to report is not in the [Issues](https://github.com/sensen/typing-hero/issues) list.
+### ¡Espera!
+Asegúrate de que el error que quieres reportar no aparece en la lista [Issues](https://github.com/sensen/typing-hero/issues).
 
-### Prerequisites
-1. What is your device make and model?
-2. What is the Android version?
-3. Did you allow Typing Hero to run in background?
-4. Did you allow Typing Hero to auto-start after restarting device?
-5. Did you have other apps that can draw over other apps, if you cannot enable Typing Hero's service?
-6. Did you configure the snippet to expand only after typing space, if keyword is not replaced automatically?
+### Prerequisitos
+1. ¿Cuál es la marca y modelo de tu dispositivo?
+2. ¿Qué versión de Android usas?
+3. ¿Permites que Typing Hero se ejecute de fondo?
+4. ¿Permites que Typing Hero se ejecute automáticamente después de reiniciar tu dispositivo?
+5. ¿Tienes alguna app que se ejecuta sobre otra app, que impide activar Typing Hero?
+6. ¿Has configurado un atajo para que sólo se cambie después de escribir un espacio (si no lo hace automáticamente)?
 
-### Problem description
-1. What do you expect to get?
-2. What are you getting?
-3. What are the steps?
+### Descriptión de un problema
+1. ¿Qué esperabas que hiciera?
+2. ¿Qué ha pasado en su lugar?
+3. ¿Qué pasos has seguido hasta ese punto?
 
-## Community
+## Comunidad
 
 [Telegram](http://t.me/typinghero)
 
-## Download
+## Descarga
 
-[Get it on Google Play](https://play.google.com/store/apps/details?id=sen.typinghero&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+[Consíguela en Google Play](https://play.google.com/store/apps/details?id=sen.typinghero&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
