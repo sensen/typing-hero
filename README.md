@@ -4,6 +4,15 @@
 
 A place to track new feature requests and bug reports.
 
+## Links
+
+* Download: [Get it on Google Play](https://play.google.com/store/apps/details?id=sen.typinghero&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+* Community: [Telegram](http://t.me/typinghero)
+* Info: [Privacy](https://www.typinghero.app/privacy)
+* Info: [Limitation](https://www.typinghero.app/limitation)
+* Info: [Tips](https://www.typinghero.app/tips)
+* Info: [Donate](https://www.typinghero.app/donate)
+
 ## How to report bug?
 
 ### Stop!
@@ -21,11 +30,3 @@ Make sure the bug you're planning to report is not in the [Issues](https://githu
 1. What do you expect to get?
 2. What are you getting?
 3. What are the steps?
-
-## Community
-
-[Telegram](http://t.me/typinghero)
-
-## Download
-
-[Get it on Google Play](https://play.google.com/store/apps/details?id=sen.typinghero&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
