@@ -1,32 +1,19 @@
-# Typing Hero ⚡ Free Text Expander
+# Typing Hero - Text Expander for Android
 
-## Purpose
+Typing Hero is Premium Text Expander app for Android.
 
-A place to track new feature requests and bug reports.
+Its free version offers up to 10 Snippets for everyone to try. To use Typing Hero without limitation, one can purchase Subscription or Lifetime License through Google Play.
 
-## Links
+## Useful Links
 
-* Download: [Get it on Google Play](https://play.google.com/store/apps/details?id=sen.typinghero&utm_source=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-* Community: [Telegram](http://t.me/typinghero)
-* Info: [Privacy](https://www.typinghero.app/privacy)
-* Info: [Limitation](https://www.typinghero.app/limitation)
-* Info: [Tips](https://www.typinghero.app/tips)
-* Info: [Donate](https://www.typinghero.app/donate)
+- [Homepage](https://typinghero.app/)
+- [Get it on Google Play](https://play.google.com/store/apps/details?id=sen.typinghero)
+- [Telegram](http://t.me/typinghero)
+- [Customer Support](th@sensen.dev)
+- [Changelog](https://typinghero.app/changelog/)
+- [Privacy](https://typinghero.app/privacy/)
 
-## How to report bug?
+## Known Issues
 
-### Stop!
-Make sure the bug you're planning to report is not in the [Issues](https://github.com/sensen/typing-hero/issues) list.
-
-### Prerequisites
-1. What is your device make and model?
-2. What is the Android version?
-3. Did you allow Typing Hero to run in background?
-4. Did you allow Typing Hero to auto-start after restarting device?
-5. Did you have other apps that can draw over other apps, if you cannot enable Typing Hero's service?
-6. Did you configure the snippet to expand only after typing space, if keyword is not replaced automatically?
-
-### Problem description
-1. What do you expect to get?
-2. What are you getting?
-3. What are the steps?
+- [Typing Hero stops working from time to time](https://typinghero.app/docs/#battery-optimization)
+- [Incompatible Apps](https://typinghero.app/docs/#incompatible-apps)
