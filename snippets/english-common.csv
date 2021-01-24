@@ -1,0 +1,71 @@
+Keyword,Text,Replace after Typing Space,Position,Randomize
+sup,what’s up? ,FALSE,1,FALSE
+wne,what’s new? ,FALSE,1,FALSE
+wutl,what have you been up to lately? ,FALSE,1,FALSE
+hwig,how’s it going? ,FALSE,1,FALSE
+hwrt,how are things? ,FALSE,1,FALSE
+hwl,how’s life? ,FALSE,1,FALSE
+ifhwu,"i’m fine, thanks. how about you? ",FALSE,1,FALSE
+ptg,pretty good. ,FALSE,1,FALSE
+saa,same as always. ,FALSE,1,FALSE
+nsg,not so great. ,FALSE,1,FALSE
+cbb,could be better. ,FALSE,1,FALSE
+ccm,can't complain. ,FALSE,1,FALSE
+iaprc,i really appreciate it. ,FALSE,1,FALSE
+igrt,i’m really grateful. ,FALSE,1,FALSE
+skoy,that’s so kind of you. ,FALSE,1,FALSE
+iou,i owe you one. ,FALSE,1,FALSE
+np,no problem. ,FALSE,1,FALSE
+nw,no worries. ,FALSE,1,FALSE
+dmi,don’t mention it. ,FALSE,1,FALSE
+mpl,my pleasure. ,FALSE,1,FALSE
+ncwu,it was nice chatting with you. ,FALSE,1,FALSE
+gtg,"anyway, i should get going. ",FALSE,1,FALSE
+tfs,that’s for sure. ,FALSE,1,FALSE
+tgr,that’s great! ,FALSE,1,FALSE
+wndf,wonderful! ,FALSE,1,FALSE
+awsm,awesome! ,FALSE,1,FALSE
+istht,i’m so sorry to hear that. ,FALSE,1,FALSE
+rufr,are you free on %cursor%? ,FALSE,1,FALSE
+ruda,are you doing anything on %cursor%? ,FALSE,1,FALSE
+dwr,don't worry. ,FALSE,1,FALSE
+excl,excellent. ,FALSE,1,FALSE
+jal,just a little. ,FALSE,1,FALSE
+jam,just a moment. ,FALSE,1,FALSE
+lmc,let me check. ,FALSE,1,FALSE
+lmtai,let me think about it. ,FALSE,1,FALSE
+nvm,never mind. ,FALSE,1,FALSE
+ntyt,not yet. ,FALSE,1,FALSE
+ofc,of course. ,FALSE,1,FALSE
+ok,okay. ,TRUE,1,FALSE
+rh,right here. ,TRUE,1,FALSE
+rt,right there. ,TRUE,1,FALSE
+rn,right now. ,FALSE,1,FALSE
+cu,see you! ,TRUE,1,FALSE
+cul,see you later! ,FALSE,1,FALSE
+cutm,see you tomorrow! ,FALSE,1,FALSE
+cutn,see you tonight! ,FALSE,1,FALSE
+ty,thank you! ,TRUE,1,FALSE
+tyvm,thank you very much! ,FALSE,1,FALSE
+tysm,thank you so much! ,FALSE,1,FALSE
+xcm,excuse me ,FALSE,1,FALSE
+idu,i don't understand ,TRUE,1,FALSE
+lmk,let me know. ,FALSE,1,FALSE
+ic,i see. ,TRUE,1,FALSE
+dyk,do you know ,FALSE,1,FALSE
+dyka,do you know about %cursor%?,FALSE,1,FALSE
+idk,i don't know. ,FALSE,1,FALSE
+omw,on my way! ,FALSE,1,FALSE
+wam,wait a minute. ,FALSE,1,FALSE
+wru,where are you? ,FALSE,1,FALSE
+otoh,"on the other hand, ",FALSE,1,FALSE
+wdyw,what do you want? ,FALSE,1,FALSE
+wdym,what do you mean? ,FALSE,1,FALSE
+wdyt,what do you think? ,FALSE,1,FALSE
+hbd,happy birthday! ,FALSE,1,FALSE
+gm,good morning! ,FALSE,1,FALSE
+gn,good night! ,FALSE,1,FALSE
+gd,good day! ,FALSE,1,FALSE
+gaf,good afternoon! ,FALSE,1,FALSE
+gev,good evening! ,FALSE,1,FALSE
+brb,be right back! ,FALSE,1,FALSE
