@@ -1,0 +1,16 @@
+Keyword,Text,Replace after Typing Space,Position,Randomize
+mdh1,# ,FALSE,1,FALSE
+mdh2,## ,FALSE,1,FALSE
+mdh3,### ,FALSE,1,FALSE
+mdh4,#### ,FALSE,1,FALSE
+mdh5,##### ,FALSE,1,FALSE
+mdh6,###### ,FALSE,1,FALSE
+mdb,**%cursor%**,FALSE,1,FALSE
+mdi,*%cursor%*,FALSE,1,FALSE
+mdc,`%cursor%`,FALSE,1,FALSE
+mdhr,--- ,FALSE,1,FALSE
+mdl,[%cursor%](),FALSE,1,FALSE
+mdst,~~%cursor%~~,FALSE,1,FALSE
+mdo,1. ,FALSE,1,FALSE
+mdu,- ,FALSE,1,FALSE
+mdq,> ,FALSE,1,FALSE
